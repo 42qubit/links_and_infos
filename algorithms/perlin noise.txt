@@ -1,0 +1,9 @@
+Wikipedia page:
+https://en.wikipedia.org/wiki/Perlin_noise    // good introduction, bad algorithm description
+
+Complete description and implementation:
+http://staff.fh-hagenberg.at/burger/publications/reports/2008GradientNoise/Burger-GradientNoiseGerman-2008.pdf
+http://staff.fh-hagenberg.at/burger/publications/reports/2008GradientNoise/Java.zip
+
+https://mzucker.github.io/html/perlin-noise-math-faq.html   // short and precise, without implementation
+https://wiki.delphigl.com/index.php/Perlin_Noise            // a little bit unclear
