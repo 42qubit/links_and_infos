@@ -1,0 +1,11 @@
+Wikipedia:
+https://de.wikipedia.org/wiki/Targa_Image_File    // good table about format-specification
+
+Complete description:
+http://nehe.gamedev.net/tutorial/loading_compressed_and_uncompressed_tga%27s/22001/   // a little bit outdated, links do not work
+
+
+Notes:
+- use a struct to represent the header
+- use the vector<>.data() method to write data to a vector
+- the colors are saved in BGR / BGRA format
