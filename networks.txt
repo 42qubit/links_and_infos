@@ -1,0 +1,5 @@
+Good introduction to a practical use of networks:
+http://www.netzmafia.de/skripten/netze/planung.html
+
+Loads of videos about the internet, tcp/ip-stack and co:
+https://open.hpi.de/
